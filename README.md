@@ -1,6 +1,6 @@
 # CokeRoach
 
-I make small open-source tools for problems I run into while making short videos and documents. I also test and report bugs in the tools I use. Outside of code, I'm a big fan of Kurimanju.
+I make small open-source tools for problems I run into while making short videos and documents. I also test and report bugs in the tools I use.
 
 ## Projects
 
